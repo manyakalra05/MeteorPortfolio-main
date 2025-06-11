@@ -78,6 +78,15 @@ const projects = [
     demoUrl: "https://manyakalra05-3dportfolio.netlify.app",
     githubUrl: "https://github.com/manyakalra05/3Dportfolio",
   },
+  {
+    id: 9,
+    title: "NASA's Picture of the Day",
+    description: "see NASA's picture of the day, implemented through their official API",
+    image: "/projects/project9.png",
+    tags: ["React","HTMl", "JavaScript", "CSS"],
+    demoUrl: "https://manyakalra05-nasa-picoftheday.netlify.app/",
+    githubUrl: "https://github.com/manyakalra05/nasa-picoftheday",
+  },
 
 ];
 
