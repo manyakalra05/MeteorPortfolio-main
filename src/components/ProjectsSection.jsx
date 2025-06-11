@@ -75,7 +75,7 @@ const projects = [
     description: "Another portfolio I created that has a cool 3D animation!",
     image: "/projects/project8.png",
     tags: ["React","HTMl", "JavaScript", "CSS"],
-    demoUrl: "https://manyakalra05-3dportfolio.netlify.app/projects",
+    demoUrl: "https://manyakalra05-3dportfolio.netlify.app",
     githubUrl: "https://github.com/manyakalra05/3Dportfolio",
   },
 
