@@ -69,6 +69,15 @@ const projects = [
     demoUrl: "https://manyakalra05-flappybird.netlify.app/",
     githubUrl: "https://github.com/manyakalra05/flappybird",
   },
+  {
+    id: 8,
+    title: "3D Portfolio",
+    description: "Another portfolio I created that has a cool 3D animation!",
+    image: "/projects/project8.png",
+    tags: ["React","HTMl", "JavaScript", "CSS"],
+    demoUrl: "https://manyakalra05-3dportfolio.netlify.app/projects",
+    githubUrl: "https://github.com/manyakalra05/3Dportfolio",
+  },
 
 ];
 
