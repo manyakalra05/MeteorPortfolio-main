@@ -87,6 +87,15 @@ const projects = [
     demoUrl: "https://manyakalra05-nasa-picoftheday.netlify.app/",
     githubUrl: "https://github.com/manyakalra05/nasa-picoftheday",
   },
+  {
+    id: 10,
+    title: "Pixel Pet Patadise",
+    description: "Play with a cute pet of yours! All animations are made by me!",
+    image: "/projects/project10.png",
+    tags: ["HTMl", "JavaScript", "CSS"],
+    demoUrl: "https://manyakalra05-doggame.netlify.app/",
+    githubUrl: "https://github.com/manyakalra05/doggame",
+  },
 
 ];
 
