@@ -96,6 +96,33 @@ const projects = [
     demoUrl: "https://manyakalra05-doggame.netlify.app/",
     githubUrl: "https://github.com/manyakalra05/doggame",
   },
+  {
+    id: 11,
+    title: "Expense Tracker",
+    description: "Keep  track of your financials in an organised way! ",
+    image: "/projects/project11.png",
+    tags: ["MERN"],
+    demoUrl: "https://manyakalra05-financial-tracking.onrender.com/#/dashboard",
+    githubUrl: "https://github.com/manyakalra05/expense-tracking",
+  },
+  {
+    id: 12,
+    title: "Reflct",
+    description: "A full stack Journaling Website where you can pen down your thoughts, track your mood and much more! ",
+    image: "/projects/project12.png",
+    tags: ["Neon DB", "Clerk", "Prisma", "ShadCN", "NextJS"],
+    demoUrl: "https://reflct-yourthoughts.vercel.app/",
+    githubUrl: "https://github.com/manyakalra05/reflct",
+  },
+  {
+    id: 13,
+    title: "Pixel Arcade",
+    description: "Enter a virtual pixel arcade and explore some fan favourite games!",
+    image: "/projects/project13.png",
+    tags: ["HTMl", "JavaScript", "CSS"],
+    demoUrl: "https://manyakalra05-arcade.netlify.app/",
+    githubUrl: "https://github.com/manyakalra05/arcade",
+  },
 
 ];
 
