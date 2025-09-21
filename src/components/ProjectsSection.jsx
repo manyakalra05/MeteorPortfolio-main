@@ -123,6 +123,44 @@ const projects = [
     demoUrl: "https://manyakalra05-arcade.netlify.app/",
     githubUrl: "https://github.com/manyakalra05/arcade",
   },
+  {
+    id: 14,
+    title: "KeyRush",
+    description: "Do you have what it takes to be a typing master? Find out!",
+    image: "/projects/project14.png",
+    tags: ["HTMl", "JavaScript", "CSS"],
+    demoUrl: "https://typing-test-jet.vercel.app/",
+    githubUrl: "https://github.com/manyakalra05/typing-test",
+  },
+    {
+    id: 15,
+    title: "Reflct",
+    description: "Pen down your thoughts, track your mood, make collections and much more!",
+    image: "/projects/project15.png",
+    tags: ["RectJS", "NodeJS", "NextJS", "NeonDB", "Prisma", "Clerk"],
+    demoUrl: "https://reflct-yourthoughts.vercel.app/",
+    githubUrl: "https://github.com/manyakalra05/reflct",
+  },
+    {
+    id: 16,
+    title: "IGDTUW Civic Issue Reporter",
+    description: "Make our campus better by putting your concerns on the front!",
+    image: "/projects/project16.png",
+    tags: ["ReactJS", "TypeScript", "SVG", "Supabase", "SQL"],
+    demoUrl: "https://igdtuw-civic-issue-reporter.vercel.app/",
+    githubUrl: "https://github.com/manyakalra05/igdtuw-civic-issue-reporter",
+  },
+    {
+    id: 17,
+    title: "Pixxel",
+    description: "Show your creativity by making wonderful image edits with the help of AI!",
+    image: "/projects/project17.png",
+    tags: ["RectJS", "NodeJS", "NextJS", "Convex", "FabricJS", "Clerk", "ImageKit"],
+    demoUrl: "https://pixxel-it.vercel.app/",
+    githubUrl: "https://github.com/manyakalra05/pixxel",
+  },
+  
+
 
 ];
 
