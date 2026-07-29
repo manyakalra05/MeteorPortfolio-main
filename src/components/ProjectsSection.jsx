@@ -102,7 +102,7 @@ const projects = [
     description: "Keep  track of your financials in an organised way! ",
     image: "/projects/project11.png",
     tags: ["MERN"],
-    demoUrl: "https://manyakalra05-financial-tracking.onrender.com/#/dashboard",
+    demoUrl: "https://expense-tracking-chi-six.vercel.app",
     githubUrl: "https://github.com/manyakalra05/expense-tracking",
   },
   {
