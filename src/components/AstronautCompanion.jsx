@@ -60,7 +60,7 @@ const PALETTES = {
   },
   light: {
     suit: "#ffffff",
-    suitStroke: "#cbd5e1",
+    suitStroke: "#000000",
     panel: "#7c3aed",
     arm: "#f8fafc",
     leg: "#e2e8f0",
