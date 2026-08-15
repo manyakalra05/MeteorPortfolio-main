@@ -146,11 +146,19 @@ const projects = [
     title: "Pixxel",
     description: "Show your creativity by making wonderful image edits with the help of AI!",
     image: "/projects/project16.png",
-    tags: ["RectJS", "NodeJS", "NextJS", "Convex", "FabricJS", "Clerk", "ImageKit"],
+    tags: ["ReactJS", "NodeJS", "NextJS", "Convex", "FabricJS", "Clerk", "ImageKit"],
     demoUrl: "https://pixxel-it.vercel.app/",
     githubUrl: "https://github.com/manyakalra05/pixxel",
   },
-  
+  {
+    id: 17,
+    title: "Github Garden",
+    description: "Dive into the mystic github garden and showcase your stats!",
+    image: "/projects/project17.png",
+    tags: ["ReactJS", "NodeJS", "NextJS", "NeonDB", "Prisma", "Clerk", "ThreeJS"],
+    demoUrl: "https://github-mystic-garden.vercel.app/",
+    githubUrl: "https://github.com/manyakalra05/github-garden",
+  },
 
 
 ];
